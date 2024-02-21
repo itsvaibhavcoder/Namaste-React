@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="#">
+    </head>
+    <body>
+        <div id ="root">
+             <h1>Hello World !</h1> <!--using Simple html tag  -->
+        </div>
+        <!-- Using JavaScript -->
+        <script>
+           const header = document.createElement("h1")
+           header.innerHTML = "Hello World by JavaScript"
+           const root = document.getElementById("root")
+           root.appendChild(header)
+           console.log(header)
+        </script>
+    </body>
+</html>
