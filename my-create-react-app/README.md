@@ -1,3 +1,4 @@
+```
 Creating a React app from scratch using Parcel bundler is a great way to understand the underlying mechanisms of a React project. Here's a step-by-step guide to help you set up your own React app with Parcel:
 
 Step 1: Set up your project directory
@@ -82,3 +83,4 @@ Now you can start your app with the following command:
 npm start
 
 Parcel will bundle your app and serve it at http://localhost:1234.
+```
