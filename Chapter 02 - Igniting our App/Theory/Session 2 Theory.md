@@ -1,5 +1,3 @@
-```
-
 ## Namaste React Course by Akshay Saini
 # _Chapter 02 - Igniting our App_
 
@@ -172,4 +170,3 @@ A: The `/dist` folder contains the minimized version of the source code. The cod
 
 ## Q: What is `browserslist`?
 A: `Browserslist` is a tool that allows specifying which browsers should be supported in your frontend app by specifying "queries" in a config file. It's used by frameworks/libraries such as React, Angular and Vue, but it's not limited to them.
-```
