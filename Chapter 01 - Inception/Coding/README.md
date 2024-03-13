@@ -1,4 +1,3 @@
-```
 ## Namaste React Course by Akshay Saini
 # _Chapter 01 - Inception_
 
@@ -24,4 +23,3 @@
 ## References:
 - https://react.dev/reference/react/createElement
 - https://www.youtube.com/watch?v=IrHmpdORLu8
-```
