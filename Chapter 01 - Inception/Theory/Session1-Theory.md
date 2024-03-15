@@ -1,4 +1,3 @@
-```
 ## Namaste React Course by Akshay Saini
 # _Chapter 01 - Inception_
 
@@ -69,5 +68,3 @@ Execute your code only after the DOM has `initialized`, which makes DOM manipula
 Prevent top level variables from implicitly polluting the global namespace.
 Allow you to use top-level await in supported engines.
 Load and parse your code `asynchronously`, which improves load performance.
-
-```
